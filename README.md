@@ -4,7 +4,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse Exercise</b></h3>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-**[Hello Microverse]** is an execercise on day two of week one that allows Micronouts to showcase their learning about project documentation, setting up and using project linters
+**[Hello Microverse]** is an exercise on day two of week one that allows Micronouts to showcase their learning about project documentation, setting up and using project linters
 
 ## 🛠 Built With <a name="built-with"></a>
 
